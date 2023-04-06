@@ -1,0 +1,10 @@
+.git/
+.DS_Store
+.idea/
+PrimeDiceBOT.iml
+bet.log
+error.log
+labouchere.js
+out/
+script.js
+settings.conf
